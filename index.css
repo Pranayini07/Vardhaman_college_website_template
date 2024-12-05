@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #00143b;
+    padding: 15px;
+}
+.header-1{
+    display: flex;
+    justify-content:space-around;
+    list-style-type: none;
+}
+li{
+    color: white;
+    font-size: 15px;
+}
+.header-1{
+    margin-left: 500px
+}
+.logo{
+    display: flex;
+}
+.header-2{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.code{
+    margin-top: 20px;
+}
+.con{
+    padding-left: 55px;
+}
+.header-3 li{
+    color: white;
+}
+.header-3{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    background-color: #00143b;
+    padding: 10px;
+}
+.header-3 li:hover{
+    color: orange;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+.about-1{
+    padding:50px;
+    width: 65%;
+}
+.about-1 h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about-1{
+    font-size: medium;
+}
+.about-2{
+    height: 50%;
+    width: 35%;
+}
+.marque-1{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.section-4{
+    display: flex;
+    justify-content: space-around;
+    background-color:whitesmoke;
+}
+.section-5{
+    display: flex;
+    justify-content: space-around;
+}
+.about-3{
+    padding:50px;
+    width: 30%;
+    font-size: large;
+}
+.logo-1{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.logo-2{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.about-4{
+    padding:50px;
+    width: 40%;
+}
+.about-5{
+    padding:50px;
+    width: 40%;
+}
+.about-6{
+    display:flex;
+    justify-content: space-around;
+    padding:40px;
+}
+.section-6{
+    background-color: whitesmoke;
+    padding:20px;
+}
+.anpara{
+    padding:40px;
+    width:50%;
+    font-size: large;
+}
+.section-7{
+    display:flex;
+    justify-content: space-around;
+}
+.video{
+    padding-top: 40px;
+}
+.section-8{
+    background-color:whitesmoke;
+}
+.images{
+    padding:25px;
+    background-color:white;
+    width:275px;
+}
+.about-7{
+    display:flex;
+    justify-content: space-around;
+    padding:20px;
+
+}
+.about-7 p{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.section-9 h2{
+    padding:20px;
+}
+.about-8{
+    display:flex;
+    justify-content: space-around;
+}
+.section-9{
+    padding:40px;
+}
+.feedback-1 h4{
+    color:orange;
+}
+.feedback-1{
+    background-color: whitesmoke;
+    width:40%;
+    padding:50px;
+}
+.section-10{
+    display:flex;
+    justify-content: space-around;
+    padding:20px;
+}
+.feedback-2 h4{
+    color:orange;
+}
+.feedback-2{
+    background-color: whitesmoke;
+    width:40%;
+    padding:50px;
+}
+.address h4{
+    color:orange;
+}
+.section-11{
+    display:flex;
+    justify-content: space-around;
+    background-color:black;
+    color:white;
+    padding: 50px;
+}
+.address{
+    padding:20px;
+    width:25%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}    
+.resources{
+    padding:20px;
+    width:25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.resources h4{
+    color:orange;
+}
+.quick h4{
+    color:orange;
+}
+.quick{
+    padding:20px;
+    width:25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contact{
+    padding: 20px;
+    width:25%;
+}
+.contact h4{
+    color:orange;
+}
+.footer{
+    font-size: small;
+    padding:20px;
+    background-color: whitesmoke;
+}
